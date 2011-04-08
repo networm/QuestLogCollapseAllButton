@@ -1,0 +1,10 @@
+﻿## Interface: 40000
+## Title: QuestLogCollapseAllButton
+## Title-zhCN: QuestLogCollapseAllButton
+## Notes: Blizzard original QuestLogCollapseAllButton
+## Notes-zhCN: 原来暴雪的任务日志全部展开折叠按钮
+## Version: 1.0
+## Author: networm(狂飙)
+
+
+QuestLogCollapseAllButton.xml
